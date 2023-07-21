@@ -1,4 +1,4 @@
-# Modified-PM-Equation
+# Transformative-Predictions-for-Land-Water-Requirements
 
 Introduction:
 The Penman-Monteith equation is a widely used method for estimating evapotranspiration rates, which are essential for various applications such as water resource management and agricultural planning. However, the standard Penman-Monteith equation does not account for the influence of CO2 concentration on evapotranspiration. In this study, I propose a modified equation that incorporates CO2 concentration as a variable, providing more accurate estimations of future evapotranspiration rates. Used a modified version of the Penman Monteith Equation, and future climate projection over India to examine the relationship btw atm co2 and reference evapotranspiration and developed a comprehensive model of how rising CO2 concentrations impact on land water requirement.
